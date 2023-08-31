@@ -1,0 +1,193 @@
+{
+  "visemes": {},
+  "phonemes": [
+    {
+      "phoneme": 98,
+      "viseme": "B"
+    },
+    {
+      "phoneme": 109,
+      "viseme": "M"
+    },
+    {
+      "phoneme": 112,
+      "viseme": "P"
+    },
+    {
+      "phoneme": 119,
+      "viseme": "W"
+    },
+    {
+      "phoneme": 102,
+      "viseme": "F"
+    },
+    {
+      "phoneme": 118,
+      "viseme": "V"
+    },
+    {
+      "phoneme": 633,
+      "viseme": "R"
+    },
+    {
+      "phoneme": 114,
+      "viseme": "R"
+    },
+    {
+      "phoneme": 635,
+      "viseme": "R"
+    },
+    {
+      "phoneme": 602,
+      "viseme": "ER"
+    },
+    {
+      "phoneme": 605,
+      "viseme": "ER"
+    },
+    {
+      "phoneme": 240,
+      "viseme": "DH"
+    },
+    {
+      "phoneme": 952,
+      "viseme": "TH"
+    },
+    {
+      "phoneme": 643,
+      "viseme": "SH"
+    },
+    {
+      "phoneme": 676,
+      "viseme": "SH"
+    },
+    {
+      "phoneme": 679,
+      "viseme": "SH"
+    },
+    {
+      "phoneme": 115,
+      "viseme": "S"
+    },
+    {
+      "phoneme": 122,
+      "viseme": "Z"
+    },
+    {
+      "phoneme": 100,
+      "viseme": "D"
+    },
+    {
+      "phoneme": 638,
+      "viseme": "D"
+    },
+    {
+      "phoneme": 108,
+      "viseme": "D"
+    },
+    {
+      "phoneme": 619,
+      "viseme": "D"
+    },
+    {
+      "phoneme": 110,
+      "viseme": "D"
+    },
+    {
+      "phoneme": 116,
+      "viseme": "T"
+    },
+    {
+      "phoneme": 111,
+      "viseme": "OW"
+    },
+    {
+      "phoneme": 117,
+      "viseme": "UW"
+    },
+    {
+      "phoneme": 101,
+      "viseme": "AH"
+    },
+    {
+      "phoneme": 230,
+      "viseme": "AE"
+    },
+    {
+      "phoneme": 593,
+      "viseme": "AA"
+    },
+    {
+      "phoneme": 97,
+      "viseme": "AA"
+    },
+    {
+      "phoneme": 105,
+      "viseme": "IY"
+    },
+    {
+      "phoneme": 106,
+      "viseme": "Y"
+    },
+    {
+      "phoneme": 652,
+      "viseme": "AH"
+    },
+    {
+      "phoneme": 596,
+      "viseme": "AA"
+    },
+    {
+      "phoneme": 601,
+      "viseme": "AH"
+    },
+    {
+      "phoneme": 604,
+      "viseme": "AH"
+    },
+    {
+      "phoneme": 603,
+      "viseme": "EH"
+    },
+    {
+      "phoneme": 618,
+      "viseme": "IY"
+    },
+    {
+      "phoneme": 616,
+      "viseme": "IY"
+    },
+    {
+      "phoneme": 650,
+      "viseme": "UW"
+    },
+    {
+      "phoneme": 103,
+      "viseme": "K"
+    },
+    {
+      "phoneme": 609,
+      "viseme": "K"
+    },
+    {
+      "phoneme": 104,
+      "viseme": "HH"
+    },
+    {
+      "phoneme": 614,
+      "viseme": "HH"
+    },
+    {
+      "phoneme": 107,
+      "viseme": "K"
+    },
+    {
+      "phoneme": 331,
+      "viseme": "M"
+    },
+    {
+      "phoneme": 658,
+      "viseme": "SH"
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 ﻿using Sandbox;
 using System.ComponentModel;
 using Sandbox.drone;
+using Sandbox.Effects;
 
 namespace MyGame;
 
@@ -78,6 +79,7 @@ public partial class Pawn : AnimatedEntity
 		EnableDrawing = true;
 		EnableHideInFirstPerson = true;
 		EnableShadowInFirstPerson = true;
+
 	}
 
 	public void SetActiveWeapon( Weapon weapon )
@@ -110,6 +112,11 @@ public partial class Pawn : AnimatedEntity
 		ActiveWeapon?.Simulate( cl );
 		MyDrone?.Simulate( cl );
 		EyeLocalPosition = Vector3.Up * (64f * Scale);
+
+		//if()
+		//DepthOfField dof = new();
+		//dof.
+		//Camera.Main.FindOrCreateHook<TestEffect>();
 	}
 
 	public override void BuildInput()
